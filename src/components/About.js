@@ -79,7 +79,7 @@ export default function About(props) {
             >
                 <div className="accordion-body" style={myStyle}>
                 <strong>The Features of the TextUtils are:- 
-                    Convert Dark Mode, Convert to Upper Case, Convert to Lower Case, Clear Text Area, Copy Text Area, Remove Spaces, Display of Text Summary and Preview.    
+                    Convert Dark Mode, Convert to Upper Case, Convert to Lower Case, Clear Text Area, Copy Text Area, Remove Spaces, Display of Text Summary and Preview.   
                 </strong> 
                 </div>
             </div>           
